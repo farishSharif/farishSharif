@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi 👋, I'm Farish sharif A</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/fdvOlldr5RYAAAAC/private.gif">
