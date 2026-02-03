@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Farish sharif A</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/fdvOlldr5RYAAAAC/private.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farishsharif&label=Profile%20views&color=0e75b6&style=flat" alt="farishsharif" /> </p>
 
 - 👨‍💻 All of my projects are available at [farishsharif.vercel.app](farishsharif.vercel.app)
