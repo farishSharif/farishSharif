@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/fdvOlldr5RYAAAAC/private.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farishsharif&label=Profile%20views&color=0e75b6&style=flat" alt="farishsharif" /> </p>
 
-- 👨‍💻 All of my projects are available at [farishsharif.vercel.app](farishsharif.vercel.app)
+- 👨‍💻 All of my projects are available at [farishsharif.in](www.farishsharif.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
